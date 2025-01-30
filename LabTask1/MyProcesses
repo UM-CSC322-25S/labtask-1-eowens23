@@ -1,0 +1,3 @@
+program's parent process is the shell
+parent's parent process is init(the root)
+parent's parents's parent process is the OS/kernel/process 0

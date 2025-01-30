@@ -1,0 +1,8 @@
+#!/bin/zsh
+
+echo "user id: $(id -u)"
+echo "primary group id: $(id -g)"
+echo "all groups: $(id -Gn)"
+echo "absolute path of shell path: $SHELL"
+echo "absolute path of home directory: $HOME"
+echo "PATH environment variable: $PATH"
